@@ -1,0 +1,12 @@
+program trigonometrica
+
+real function radians(degress)
+
+real pi, degress, temp
+
+print*, "Insira um número em graus para ter seu seno e cosseno."
+read*, pi
+pi = 4,0*ATAN(1.0)
+temp = (pi*degress)/180.0
+radians=temp
+end

@@ -1,0 +1,34 @@
+PROGRAM naftaleno
+
+IMPLICIT NONE
+INTEGER::r,b,q
+DOUBLE PRECISION::pi, rad, y, x, w, z,l,a,e,h
+z=0
+l=1.41D0
+PRINT*, 'Insira q'
+READ*, q
+h=2+4*q
+ OPEN (UNIT=1,FILE='Benzenos.xyz')
+WRITE(1,*)h
+WRITE(1,*)
+  DO r=1,6
+	w=r*60.0D0-30.0D0
+	pi=dacos(-1.0D0)
+	rad= pi*w*(2.0D0/360.0D0)
+	y=l*dsin(rad)
+	x=l*dcos(rad)	
+  DO b=1,q
+	IF (r<3) THEN
+	       a=(l*dcos(rad))+(q-1.0D0)*l*sqrt(3.0D0)
+	       e=l*dsin(rad)
+        WRITE(1,*) 'c',a,e,z
+	ELSE IF (r>4) THEN
+	        a=(l*dcos(rad))+(q-1.0D0)*l*sqrt(3.0D0)
+	        e=l*dsin(rad)
+	WRITE(1,*) 'c',a,e,z
+	END IF
+	END DO
+	WRITE (1,*) 'c',x,y,z
+  END DO
+ CLOSE(UNIT=1)
+END PROGRAM

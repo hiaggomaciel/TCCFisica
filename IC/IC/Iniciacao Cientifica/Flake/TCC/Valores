@@ -1,0 +1,143 @@
+1
+ Total charge up=   2.9999999999999991     
+ Total charge dw=   2.9999999999999991     
+ Maximum dq=:   3.3306690738754696E-016
+ Fermi Energy is: Ef=   1.5000000000000000     
+ Gap is: Gap=   6.0000000000000000
+ Total Energy is: Etot=  -19.499999999999996 
+ 
+ 2
+ Total charge up=   21.000000000000007     
+ Total charge dw=   21.000000000000007     
+ Maximum dq=:   6.6613381477509392E-016
+ Fermi Energy is: Ef=   1.4999999999999991     
+ Gap is: Gap=   2.7886121735089784
+ Total Energy is: Etot=  -152.60678083490328     
+
+3
+ Total charge up=   57.000000000000000     
+ Total charge dw=   57.000000000000000     
+ Maximum dq=:   4.9960036108132044E-016
+ Fermi Energy is: Ef=   1.5000000000000007     
+ Gap is: Gap=   1.7465571985557768     
+ Total Energy is: Etot=  -428.73952773946996  
+ 
+ 4
+ Total charge up=   111.00000000000000     
+ Total charge dw=   111.00000000000000     
+ Maximum dq=:   5.5511151231257827E-016
+ Fermi Energy is: Ef=   1.5000000000000013     
+ Gap is: Gap=   1.2672770786204757     
+ Total Energy is: Etot=  -847.94651667007975       
+
+5
+ Total charge up=   183.00000000000000     
+ Total charge dw=   183.00000000000000     
+ Maximum dq=:   8.8817841970012523E-016
+ Fermi Energy is: Ef=   1.5000000000000000     
+ Gap is: Gap=  0.99371724476873058     
+ Total Energy is: Etot=  -1410.2177157999615  
+ 
+ 6
+ Total charge up=   273.00000000000000     
+ Total charge dw=   273.00000000000000     
+ Maximum dq=:   8.8817841970012523E-016
+ Fermi Energy is: Ef=   1.5000000000000022     
+ Gap is: Gap=  0.81711036236730794     
+ Total Energy is: Etot=  -2115.5490784488320 
+ 
+ 7
+ Total charge up=   381.00000000000000     
+ Total charge dw=   381.00000000000000     
+ Maximum dq=:   1.5543122344752192E-015
+ Fermi Energy is: Ef=   1.5000000000000018     
+ Gap is: Gap=  0.69374010238094441     
+ Total Energy is: Etot=  -2963.9389181415586
+ 
+ 8
+ Total charge up=   507.00000000000000     
+ Total charge dw=   507.00000000000000     
+ Maximum dq=:   1.5543122344752192E-015
+ Fermi Energy is: Ef=   1.5000000000000000     
+ Gap is: Gap=  0.60270908739722562     
+ Total Energy is: Etot=  -3955.3864290676406  
+ 
+ 9
+ Total charge up=   651.00000000000000     
+ Total charge dw=   651.00000000000000     
+ Maximum dq=:   1.9984014443252818E-015
+ Fermi Energy is: Ef=   1.5000000000000000     
+ Gap is: Gap=  0.53278330648084737     
+ Total Energy is: Etot=  -5089.8911731088729 
+ 
+ 10
+ Total charge up=   813.00000000000000     
+ Total charge dw=   813.00000000000000     
+ Maximum dq=:   2.9976021664879227E-015
+ Fermi Energy is: Ef=   1.5000000000000022     
+ Gap is: Gap=  0.47738908954914572     
+ Total Energy is: Etot=  -6367.4528819666994
+ 
+ 11
+ Total charge up=   993.00000000000000     
+ Total charge dw=   993.00000000000000     
+ Maximum dq=:   2.5535129566378600E-015
+ Fermi Energy is: Ef=   1.5000000000000000     
+ Gap is: Gap=  0.43242479063047745     
+ Total Energy is: Etot=  -7788.0713744654086 
+ 
+ 12
+ Total charge up=   1191.0000000000002     
+ Total charge dw=   1191.0000000000002     
+ Maximum dq=:   3.9968028886505635E-015
+ Fermi Energy is: Ef=   1.4999999999999984     
+ Gap is: Gap=  0.39519910251351043     
+ Total Energy is: Etot=  -9351.7465204656964   
+ 
+ 13
+ Total charge up=   1407.0000000000002     
+ Total charge dw=   1407.0000000000002     
+ Maximum dq=:   4.7739590058881731E-015
+ Fermi Energy is: Ef=   1.5000000000000013     
+ Gap is: Gap=  0.36387305851741680     
+ Total Energy is: Etot=  -11058.478224319595 
+ 
+ 14
+ Total charge up=   1641.0000000000000     
+ Total charge dw=   1641.0000000000000     
+ Maximum dq=:   5.6621374255882984E-015
+ Fermi Energy is: Ef=   1.5000000000000007     
+ Gap is: Gap=  0.33714745550174596     
+ Total Energy is: Etot=  -12908.266416341236 
+ 
+ 15
+ Total charge up=   1893.0000000000002     
+ Total charge dw=   1893.0000000000002     
+ Maximum dq=:   5.5511151231257827E-015
+ Fermi Energy is: Ef=   1.4999999999999993     
+ Gap is: Gap=  0.31407840045429980     
+ Total Energy is: Etot=  -14901.111047424916 
+ 
+ 07-2h
+ Total charge up=   368.00000000000000     
+ Total charge dw=   368.00000000000000     
+ Maximum dq=:   1.2212453270876722E-015
+ Fermi Energy is: Ef=   1.5000000000000007     
+ Gap is: Gap=   4.4434395431247609E-003
+ Total Energy is: Etot=  -2842.1374581327595  
+ 
+ 07-2h-afm
+ Total charge up=   368.00000000003007     
+ Total charge dw=   367.99999999996999     
+ Maximum dq=:   6.6642771967551084E-008
+ Fermi Energy is: Ef=   1.5000000000000002     
+ Gap is: Gap=  0.33736294492749552     
+ Total Energy is: Etot=  -2842.3082911320466  
+ 
+ 07-2h-fm
+ Total charge up=   368.99764175295871     
+ Total charge dw=   367.00235824704168     
+ Maximum dq=:   4.9616434016908073E-008
+ Fermi Energy is: Ef=   1.4999999999999998     
+ Gap is: Gap=  0.33228062892329913     
+ Total Energy is: Etot=  -2842.3082520010580
